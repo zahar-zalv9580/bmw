@@ -110,7 +110,7 @@ footer{
 footer a {
     margin-right:20%;
 }
-footer div{
+footer p{
     display: flex;
     color: white;
 }
