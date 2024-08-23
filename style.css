@@ -1,0 +1,112 @@
+body{
+   font-family: monospace;
+   background-color: black;
+}
+.logo{
+    width: 100px;
+}
+.button-header{
+    background-color: #abf4ff;
+    color: rgb(28, 0, 110);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+header{
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    background-color: #0051ff63;
+}
+.topics{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 30px;
+    font-size: 50px;
+}
+.log-choice{
+    height: 100px;
+    width: 175px;
+}
+.choice{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(39, 39, 39, 0.221);
+    
+}
+.choice-part{
+    border: 5px double rgb(213, 255, 168);
+    padding: 10px;
+    margin: 10px auto 10px auto;
+}
+.choice-button{
+    text-decoration: none;
+    background-color:#256aff;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+}
+.all-screen-image{
+    width: 100%;
+}
+.half-screen-h1{
+    font-size: 35px;
+    text-align: center;
+       padding: 10px;
+    display: block;
+    border-radius: 5px;
+        background-color:#497a00;
+    color: white;
+}
+.half-screen-a{
+    font-size: 20px;
+    text-align: center;
+       padding: 10px;
+    display: block;
+    border-radius: 5px;
+        background-color:#1342a9;
+    color: white;
+}
+.new{
+
+padding: 0px;
+margin: 0px;
+}
+.new-part{
+        border: 10px dashed white;
+    padding: 10px;
+    margin: 20px;
+}
+nav{
+    border-top: 5px solid whitesmoke;
+    border-bottom: 5px solid whitesmoke;
+    padding: 25px 60px 25px 60px;
+    justify-content: space-between;
+    display: flex;
+}
+nav a {
+    font-size: 14px;
+      color: rgb(213, 203, 255);
+    text-decoration: none;
+}
+.site-link{
+    text-decoration: none;
+    color: #256aff;
+}
+span{
+    color: #4061a8;
+}
+footer{
+    padding: 15px;
+    display: flex;
+    background-color: #00ff4c30;
+}
+footer a {
+    margin-right:20%;
+}
