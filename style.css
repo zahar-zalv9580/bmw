@@ -110,7 +110,20 @@ footer{
 footer a {
     margin-right:20%;
 }
-footer p{
+footer div{
     display: flex;
     color: white;
+}
+.text{
+    color: white;
+    font-size: 15px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+li{
+    color: white;
+    font-size: 15px;
 }
